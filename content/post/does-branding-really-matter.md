@@ -1,7 +1,6 @@
 +++
 authors = []
 date = 2021-08-11T05:57:00Z
-draft = true
 excerpt = "You will get a lot of different answers online. But when you ask big companies about it, they'll tell you this."
 hero = "/static/images/pexels-cottonbro-4720384.jpg"
 title = "Does branding really matter?"
